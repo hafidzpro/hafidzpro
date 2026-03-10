@@ -26,11 +26,11 @@ Languages and tools I often use or learn:
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hahfid&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hahfid&show_icons=true&theme=tokyonight)
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hahfid&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hahfid&layout=compact&theme=tokyonight)
 
 ---
 
